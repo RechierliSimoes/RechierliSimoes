@@ -15,7 +15,7 @@
 <br>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/rechierli-simões-993436205">
+  <a href="www.linkedin.com/in/rechierli-simões-993436205" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
