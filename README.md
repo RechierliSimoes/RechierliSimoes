@@ -53,5 +53,5 @@ Tenho experiência no desenvolvimento de **sistemas web**, **automação de proc
 ---
 
 ### 📫 Contato
-- LinkedIn: (adicione aqui)
-- Email: (adicione aqui)
+- LinkedIn: (in/rechierli-simões-993436205)
+- Email: (rechierliwork14@outlook.com)
